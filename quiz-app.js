@@ -1,6 +1,6 @@
 let data = [
     {
-        Q: "What is the ans of 2+2?",
+        Q: "What is the ans of 2+3-1?",
         a: "4",
         b: "3",
         c: "9",
